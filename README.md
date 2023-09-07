@@ -1,6 +1,6 @@
 # elmo1-rhog_nanobody_design
 
-This repository contains codes for the regeneration of figures in 
+This repository contains codes for the regeneration of figures 3b and 3g in 
 
 Tam, C., Kukimoto-Niino, M., Miyata-Yabuki, Y. et al. Targeting Ras-binding domain of ELMO1 by computational nanobody design. Commun Biol 6, 284 (2023). https://doi.org/10.1038/s42003-023-04657-w
 
